@@ -104,8 +104,6 @@ The analysis includes:
 - Conversion Rate by Channel & Campaign  
 - Average Time on Site by Channel  
 
-> *(Add screenshots of your charts here)*
-
 ---
 
 ## 💡 Recommendation
